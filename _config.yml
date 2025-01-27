@@ -5,11 +5,11 @@
 # CUSTOMIZE
 # Name of your site (displayed in the header)
 # This should be your name or nickname.
-name: Your Name
+name: Fox Zhang
 
 # CUSTOMIZE
 # Short bio or description aout you (displayed in the header)
-description: CSCI-UA 480 Student, Spring 2025
+description: a cs and econ major, swiftie, and canadian
 
 # CUSTOMIZE
 # URL of your avatar or profile pic (the image should be located in the images 
@@ -17,7 +17,7 @@ description: CSCI-UA 480 Student, Spring 2025
 # on the web). Replace "weekly" by the name of your own repository.
 # It should be "USER_NAME-weekly" in which USER_NAME is replaced by your actual
 # user name for GitHub.
-avatar: /weekly/images/icon.png 
+avatar: /weekly/images/me
 # fallback text in case image is not served and/or for screen readers
 avatar_alt_text: Avatar
 # use this separator in your blogs to indicate where the abbreviated part ends and 
@@ -32,12 +32,12 @@ excerpt_separator: <!--more-->
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: fz2097@nyu.edu
   facebook:
   flickr:
   github: ossd-s25
-  instagram:
-  linkedin:
+  instagram: foxzhang1224
+  linkedin: https://www.linkedin.com/in/fei-zhang-5705a2197/
   pinterest:
   twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
@@ -50,14 +50,14 @@ footer-links:
 # It should be "/USER_NAME-weekly" in which USER_NAME is replaced by your actual
 # user name for GitHub.
 
-url: "https://ossd-s25.github.io/weekly"
+url: "https://ossd-s25.github.io/foxzhang1224-weekly"
 
 # CUSTOMIZE
 # Replace this with the name of your own repository.
 # It should be "/USER_NAME-weekly" in which USER_NAME is replaced by your actual
 # user name for GitHub.
 
-baseurl: "/weekly"
+baseurl: "/foxzhang1224-weekly"
 
 #
 # !! You don't need to change any of the configuration flags below !!
@@ -81,7 +81,7 @@ kramdown:
 
 # Set the Sass partials directory, as we're using @imports
 sass:
-  style: :expanded # You might prefer to minify using :compressed
+  style: :compressed # You might prefer to minify using :compressed
 
 # Use the following plug-ins
 gems:
