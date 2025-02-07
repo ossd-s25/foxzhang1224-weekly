@@ -22,6 +22,6 @@ Replace the first row with your own contribution.
 
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-| Feb 3   | link to my contribution    | course website    |   I fixed a broken link.    |
+| Feb 7   | https://www.openstreetmap.org/note/4618504    | Adding notes on open street map   |   I added a unbdocumanted barber shop downstairs of my apartment.   |
 |     |     |     |      |
 |     |     |     |      |
