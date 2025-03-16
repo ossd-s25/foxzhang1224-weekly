@@ -23,5 +23,5 @@ Replace the first row with your own contribution.
 | Date #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
 | Feb 7   | https://www.openstreetmap.org/note/4618504    | Adding notes on open street map   |   I added a unbdocumanted barber shop downstairs of my apartment.   |
-|     |     |     |      |
+|  March 16th   |  https://www.openstreetmap.org/note/4667766#map=15/40.72939/-73.98177&layers=N   |  Add notes on open street map    | The cafe downstairs of my building occupies two separated space, one for the cafe and one for the restaurant. It was not shown on the map because these two spaces share the same address, but I added a description to the map so people will not be misguided if the look up cafe but ended up being at the restaurant.     |
 |     |     |     |      |
