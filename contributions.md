@@ -30,6 +30,8 @@ Replace the first row with your own contribution.
 |  April 20th  | https://github.com/whatwg/html/issues/4140 |  Fixing front end css error in sourcecode |  I proposed the solution of deleting all <span> tag in the sourcecode to reduce the redundancy. After inspecting all the frontend code, including javascript and html for the repository, I realized that the inclusion of the tag <span> could contribute to additional signal to two method, causing the error with postMessage() taking 2 instances of the object worker. By removing that, we can clear out the useless part and then see if it can logically cut off the duplicate operation of the call of the method. |
 |  April 25th  | https://en.wikipedia.org/wiki/Special:Contributions/Foxymoxy1224 |  Update restoration information |  I updated the most recent restoration information about the Pulitzer Fountain to its wikipedia page. (https://en.wikipedia.org/w/index.php?title=Pulitzer_Fountain&diff=prev&oldid=1287497986) |
 |  April 29th  | [https://en.wikipedia.org/wiki/Special:Contributions/Foxymoxy1224](https://en.wikipedia.org/w/index.php?title=Hey_Tea&diff=prev&oldid=1287991901) |  Update international store opening information for heytea|  I researched and updated the business history of HeyTea regarding its internatinonal expansion in Singapore and UK. https://en.wikipedia.org/wiki/Hey_Tea|
+|  April 30th  | https://leetcode.com/problems/maximum-product-subarray/solutions/6703284/solution-dp-by-fox1224-aen0/ |  Posting solution for Leetcode question 152 |  I published my personal solution to leetcode question 152 using the dynamic programming method with explanation and code. |
+
 
 
 
