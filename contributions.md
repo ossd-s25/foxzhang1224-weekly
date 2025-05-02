@@ -32,7 +32,7 @@ Replace the first row with your own contribution.
 |  April 29th  | [https://en.wikipedia.org/wiki/Special:Contributions/Foxymoxy1224](https://en.wikipedia.org/w/index.php?title=Hey_Tea&diff=prev&oldid=1287991901) |  Update international store opening information for heytea|  I researched and updated the business history of HeyTea regarding its internatinonal expansion in Singapore and UK. https://en.wikipedia.org/wiki/Hey_Tea|
 |  April 30th  | https://leetcode.com/problems/maximum-product-subarray/solutions/6703284/solution-dp-by-fox1224-aen0/ |  Posting solution for Leetcode question 152 |  I published my personal solution to leetcode question 152 using the dynamic programming method with explanation and code. |
 |  April 30th  | [PR Request](https://github.com/up-for-grabs/up-for-grabs.net/pull/5179)|  I published a PR to an open source project called up-for-grabs| I fixed the issue #4334 by adding a github label next to the project name that leads directly to the project Github repository. |
-
+|  May 2nd  | [PR Request](https://github.com/up-for-grabs/up-for-grabs.net/pull/5181)|  I published a PR to fix issue $4334 on github repo of up-for-grads | I fixed the issue #4334 by fixing both front-end and back-end code to display total issue count for the corresponding repository. |
 
 
 
